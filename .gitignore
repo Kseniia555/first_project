@@ -8,6 +8,9 @@ venv/
 __pycache__/
 *.py[cod]
 
+# Файлы библиотек
+pip/
+
 # Файлы среды разработки
 .idea/
 .vscode/
