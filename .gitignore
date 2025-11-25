@@ -25,3 +25,5 @@ pip/
 # Системные файлы
 Thumbs.db  # Windows
 .DS_Store  # macOS
+
+!requirements_Yandex.txt
